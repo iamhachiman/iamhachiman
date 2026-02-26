@@ -85,17 +85,6 @@ $ cat /etc/hachiman/skills.conf
 
 ---
 
-### ░ GITHUB STATS
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=iamhachiman&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&count_private=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhachiman&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&count_private=true" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=iamhachiman&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&dates=888888" />
-
----
-
 ### ░ ACTIVITY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamhachiman&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
